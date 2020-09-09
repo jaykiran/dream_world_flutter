@@ -29,6 +29,11 @@ A Flutter App to store your dreams.
 - shared_preferences: ^0.5.3+1
 - share: ^0.6.1+1
 
+## dev dependencies :
+
+-flutter_flavorizr: ^1.0.3
+
+
 ## Working Demo :
 <img src="images/demo1.gif" height="600">
 
