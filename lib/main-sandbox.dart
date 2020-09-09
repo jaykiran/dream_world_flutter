@@ -6,7 +6,7 @@ import 'screens/home.dart';
 import 'data/theme.dart';
 
 void main() {
-  F.appFlavor = Flavor.SANDBOX;
+  F.appFlavor = Flavor.SANDBOX; 
   runApp(MyApp());
 }
 class MyApp extends StatefulWidget {

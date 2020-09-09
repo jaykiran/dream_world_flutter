@@ -13,7 +13,7 @@ class F {
       case Flavor.PRODUCTION:
         return 'https://api.xxxx.com' ;
       default:
-        return '';
+        return ''; 
     }
   }
 
