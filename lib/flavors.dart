@@ -11,7 +11,7 @@ class F {
       case Flavor.SANDBOX:
         return 'http://api.staging.example.com/api/v1';
       case Flavor.PRODUCTION:
-        return 'https://api.xxxx.com';
+        return 'https://api.xxxx.com' ;
       default:
         return '';
     }

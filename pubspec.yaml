@@ -62,7 +62,7 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^0.1.3
 
-dev_dependencies:
+dev_dependencies: 
   flutter_flavorizr: ^1.0.3
   flutter_test:
     sdk: flutter

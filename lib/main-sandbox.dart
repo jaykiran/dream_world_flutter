@@ -42,7 +42,7 @@ class _MyAppState extends State<MyApp> {
       });
     } else {
       setState(() {
-        theme = appThemeLight;
+        theme = appThemeLight ;
       });
     }
   }
