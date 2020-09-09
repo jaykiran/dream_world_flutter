@@ -225,7 +225,7 @@ class _MyHomePageState extends State<MyHomePage> {
       firstChild: Padding(
         padding: const EdgeInsets.only(top: 8),
         child: Text(
-          'Only showing dreams marked important'.toUpperCase(),
+          'favorite dreams'.toUpperCase(),
           style: TextStyle(
               fontSize: 12, color: Colors.blue, fontWeight: FontWeight.w500),
         ),

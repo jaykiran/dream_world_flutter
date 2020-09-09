@@ -1,11 +1,14 @@
 import 'package:flutter/material.dart';
+import 'app.dart';
+import 'flavors.dart';
 import 'package:dream_world/services/sharedPref.dart';
 import 'screens/home.dart';
 import 'data/theme.dart';
-//import 'package:http/http.dart' as http;
 
-void main() => runApp(MyApp());
-
+void main() {
+  F.appFlavor = Flavor.SANDBOX;
+  runApp(MyApp());
+}
 class MyApp extends StatefulWidget {
   // This widget is the root of your application.
 

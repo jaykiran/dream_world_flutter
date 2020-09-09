@@ -28,6 +28,13 @@ A Flutter App to store your dreams.
 - url_launcher: ^5.0.3
 - shared_preferences: ^0.5.3+1
 - share: ^0.6.1+1
+- flutter_dotenv: ^2.1.0
+- http: ^0.12.1
+
+## dev dependencies :
+
+-flutter_flavorizr: ^1.0.3
+
 
 ## dev dependencies :
 
